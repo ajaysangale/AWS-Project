@@ -12,7 +12,7 @@
 
 7. Is
 
-8. git clone 
+8. git clone https://github.com/ajaysangale/AWS-Project.git
 
 9. Is
 
